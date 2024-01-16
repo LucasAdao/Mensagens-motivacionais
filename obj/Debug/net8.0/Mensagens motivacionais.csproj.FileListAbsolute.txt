@@ -1,0 +1,14 @@
+C:\Users\Ladao\OneDrive\Área de Trabalho\Projetos\Mensagens motivacionais\obj\Debug\net8.0\Mensagens motivacionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ladao\OneDrive\Área de Trabalho\Projetos\Mensagens motivacionais\obj\Debug\net8.0\Mensagens motivacionais.AssemblyInfoInputs.cache
+C:\Users\Ladao\OneDrive\Área de Trabalho\Projetos\Mensagens motivacionais\obj\Debug\net8.0\Mensagens motivacionais.AssemblyInfo.cs
+C:\Users\Ladao\OneDrive\Área de Trabalho\Projetos\Mensagens motivacionais\obj\Debug\net8.0\Mensagens motivacionais.csproj.CoreCompileInputs.cache
+C:\Users\Ladao\OneDrive\Área de Trabalho\Projetos\Mensagens motivacionais\bin\Debug\net8.0\Mensagens motivacionais.exe
+C:\Users\Ladao\OneDrive\Área de Trabalho\Projetos\Mensagens motivacionais\bin\Debug\net8.0\Mensagens motivacionais.deps.json
+C:\Users\Ladao\OneDrive\Área de Trabalho\Projetos\Mensagens motivacionais\bin\Debug\net8.0\Mensagens motivacionais.runtimeconfig.json
+C:\Users\Ladao\OneDrive\Área de Trabalho\Projetos\Mensagens motivacionais\bin\Debug\net8.0\Mensagens motivacionais.dll
+C:\Users\Ladao\OneDrive\Área de Trabalho\Projetos\Mensagens motivacionais\bin\Debug\net8.0\Mensagens motivacionais.pdb
+C:\Users\Ladao\OneDrive\Área de Trabalho\Projetos\Mensagens motivacionais\obj\Debug\net8.0\Mensagens motivacionais.dll
+C:\Users\Ladao\OneDrive\Área de Trabalho\Projetos\Mensagens motivacionais\obj\Debug\net8.0\refint\Mensagens motivacionais.dll
+C:\Users\Ladao\OneDrive\Área de Trabalho\Projetos\Mensagens motivacionais\obj\Debug\net8.0\Mensagens motivacionais.pdb
+C:\Users\Ladao\OneDrive\Área de Trabalho\Projetos\Mensagens motivacionais\obj\Debug\net8.0\Mensagens motivacionais.genruntimeconfig.cache
+C:\Users\Ladao\OneDrive\Área de Trabalho\Projetos\Mensagens motivacionais\obj\Debug\net8.0\ref\Mensagens motivacionais.dll
